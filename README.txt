@@ -1,4 +1,4 @@
-Christiana Hellenbrand (U29955524)
+Christiana Hellenbrand
 
 To compile proj1.cpp file, type into the terminal: g++ proj1.cpp CommandLine.cpp CommandParser.cpp -o proj1
 To run: ./proj
